@@ -1,1 +1,1 @@
-this script displays the contents list of your current directory.
+this script Display current directory contents in Long format, with user and group IDs displayed numerically, and hidden files (starting with (.)
