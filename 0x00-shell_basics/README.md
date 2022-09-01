@@ -1,1 +1,1 @@
-this script Delete the file betty.
+this script deletes the directory my_first_directory that is in the /tmp directory.
