@@ -1,1 +1,1 @@
-this script Display current directory contents in Long format, with user and group IDs displayed numerically, and hidden files (starting with (.)
+ lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
