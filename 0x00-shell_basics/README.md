@@ -1,1 +1,1 @@
-this script will display current directory contents, including hidden files (starting with .). Use the long format
+this script creates a directory named my_first_directory in the /tmp/ directory
